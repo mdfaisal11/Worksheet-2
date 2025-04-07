@@ -1,0 +1,10 @@
+math
+bio
+ch
+ph
+en
+np
+ur
+so
+ac
+pu
