@@ -139,7 +139,7 @@ int main()
         BookRecords br;
         int choice;
         string filename, title;
-        cout << "\nEnter your choice:" << endl;
+        cout << "Enter your choice:" << endl;
         cout << "1. Read Students" << endl;
         cout << "2. Add Student" << endl;
         cout << "3. Modify"<<endl;
