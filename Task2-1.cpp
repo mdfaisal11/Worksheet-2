@@ -26,7 +26,7 @@ int main() {
     float r1, r2;
     cout << "Enter the radius of first circle: ";
     cin >> r1;
-    cout << "Enter radius of second circle: ";
+    cout << "Enter the radius of second circle: ";
     cin >> r2;
 
     Circle c1(r1), c2(r2);
