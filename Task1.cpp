@@ -8,7 +8,7 @@ class Student
 public:
     void getData()
 {
-        cout << "Enter student name: "<<endl;
+        cout << "Enter the student name: "<<endl;
         cin >> name;
         cout << "Enter marks for 3 subjects: "<<endl;
         for (int i = 0; i < 3; i++) {
