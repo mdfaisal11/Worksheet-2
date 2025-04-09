@@ -176,7 +176,7 @@ int main()
                 cout << "Exiting..." << endl;
                 break;
             default:
-                cout << "Invalid choice Please enter a number between 1 and 7." << endl;
+                cout << "Invalid choice Please enter a number between 1 to 7." << endl;
         }
 
 
